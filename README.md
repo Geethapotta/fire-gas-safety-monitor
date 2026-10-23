@@ -45,3 +45,4 @@ Embedded C, ADC reading, state machines, debugging wiring faults.
 
 ## Author
 Potta Geetha Naga Kowmudhi
+Live simulation: <https://wokwi.com/projects/478690144784012289>
